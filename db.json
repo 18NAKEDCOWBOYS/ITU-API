@@ -1,14 +1,26 @@
 {
-  "user": {
+  "users": [
+    {
     "userId": 1,
     "name": "Beneš"
   },
+  {
+    "userId": 2,
+    "name": "Horák"
+  },
+  ],
   "events" : [
     {
       "id":1,
       "meetPoint" :"na zámku",
       "startPoint" : "na Ram ranči",
       "userId" : 1
+    },
+    {
+      "id":2,
+      "meetPoint" :"na zámku",
+      "startPoint" : "na Ram ranči",
+      "userId" : 2
     }
   ]
 }
