@@ -2,26 +2,88 @@
 {
   "users": [
     {
-      "userId": 1,
-      "name": "Beneš"
+      "id": 1,
+      "name": "Beneš",
+      "type": 1,
+      "phone": 846846,
+      "email": "benest@18NAKEDCOWBOYS.org"
     },
     {
-      "userId": 2,
-      "name": "Horák"
+      "id": 2,
+      "name": "Horák",
+      "type": 2,
+      "phone": 846846,
+      "email": "horak@18NAKEDCOWBOYS.org"
+    }
+  ],
+  "event-types" : [
+    {
+      "id" :1,
+      "key": "planned",
+      "display-string": "Naplánovaný"
+    },
+    {
+      "id" :2,
+      "key": "confirmed",
+      "display-string": "Potvrzený"
+    },
+    {
+      "id" :3,
+      "key": "completed",
+      "display-string": "Uskutečněný"
+    },
+    {
+      "id" :4,
+      "key": "canceled",
+      "display-string": "Zrušený"
+    }
+  ],
+  "user-types" : [
+    {
+      "id" :1,
+      "key": "escort",
+      "display-string": "Doprovod"
+    },
+    {
+      "id" :2,
+      "key": "pilot",
+      "display-string": "Pilot"
+    },
+    {
+      "id" :3,
+      "key": "manager",
+      "display-string": "Božena"
+    },
+    {
+      "id" :4,
+      "key": "admin",
+      "display-string": "Administrátor"
     }
   ],
   "events" : [
     {
       "id":1,
-      "meetPoint" :"na zámku",
-      "startPoint" : "na Ram ranči",
-      "userId" : 1
+      "meet-point" :"na zámku",
+      "start-point" : "na Ram ranči",
+      "pilot-id" : 2,
+      "escort-id" : 1,
+      "event-type" : 1,
+      "meet-date": "2020-10-28 10:03",
+      "start-date": "2020-10-28 13:03",
+      "customer-phone" : "94894948",
+      "description" : "pan ma maly pero"
     },
     {
       "id":2,
-      "meetPoint" :"na zámku",
-      "startPoint" : "na Ram ranči",
-      "userId" : 2
+      "meet-point" :"na zámku",
+      "start-point" : "na Ram ranči",
+      "pilot-id" : 2,
+      "escort-id" : 1,
+      "event-type" : 3,
+      "meet-date": "2020-10-28 10:03",
+      "start-date": "2020-10-28 13:03",
+      "customer-phone" : "94894948",
+      "description" : "pan ma maly pero"
     }
   ]
 }
