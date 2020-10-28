@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "user": {
+    "userId": 1,
+    "name": "Beneš"
+  },
+  "events" : [
     {
-      "id": 1,
-      "title": "hello"
+      "id":1,
+      "meetPoint" :"na zámku",
+      "startPoint" : "na Ram ranči",
+      "userId" : 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
