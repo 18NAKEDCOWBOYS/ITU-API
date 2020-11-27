@@ -20,69 +20,69 @@
     {
       "id" :1,
       "key": "planned",
-      "display-string": "Naplánovaný"
+      "displayString": "Naplánovaný"
     },
     {
       "id" :2,
       "key": "confirmed",
-      "display-string": "Potvrzený"
+      "displayString": "Potvrzený"
     },
     {
       "id" :3,
       "key": "completed",
-      "display-string": "Uskutečněný"
+      "displayString": "Uskutečněný"
     },
     {
       "id" :4,
       "key": "canceled",
-      "display-string": "Zrušený"
+      "displayString": "Zrušený"
     }
   ],
   "user-types" : [
     {
       "id" :1,
       "key": "escort",
-      "display-string": "Doprovod"
+      "displayString": "Doprovod"
     },
     {
       "id" :2,
       "key": "pilot",
-      "display-string": "Pilot"
+      "displayString": "Pilot"
     },
     {
       "id" :3,
       "key": "manager",
-      "display-string": "Božena"
+      "displayString": "Božena"
     },
     {
       "id" :4,
       "key": "admin",
-      "display-string": "Administrátor"
+      "displayString": "Administrátor"
     }
   ],
   "events" : [
     {
       "id":1,
-      "meet-point" :"na zámku",
-      "start-point" : "na Ram ranči",
-      "pilot-id" : 2,
-      "escort-id" : 1,
-      "event-type" : 1,
-      "meet-date": "2020-10-28 10:03",
-      "start-date": "2020-10-28 13:03",
-      "customer-phone" : "94894948",
+      "meetPoint" :"na zámku",
+      "startPoint" : "na Ram ranči",
+      "pilotId" : 2,
+      "escortId" : 1,
+      "eventType" : 1,
+      "meetDate": "2020-10-28 10:03",
+      "startDate": "2020-10-28 13:03",
+      "customerPhone" : "94894948",
       "description" : "pan ma maly pero"
     },
     {
       "id":2,
-      "meet-point" :"na zámku",
-      "start-point" : "na Ram ranči",
-      "pilot-id" : 2,
-      "escort-id" : 1,
-      "event-type" : 3,
-      "meet-date": "2020-10-28 10:03",
-      "start-date": "2020-10-28 13:03",
-      "customer-phone" : "94894948",
+      "meetPoint" :"na zámku",
+      "startPoint" : "na Ram ranči",
+      "pilotId" : 2,
+      "escortId" : 1,
+      "eventType" : 3,
+      "meetDate": "2020-10-28 10:03",
+      "startDate": "2020-10-28 13:03",
+      "customerPhone" : "94894948",
       "description" : "pan ma maly pero"
     }
   ]
