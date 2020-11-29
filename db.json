@@ -67,11 +67,14 @@
       "startPoint" : "na Ram ranči",
       "pilotId" : 2,
       "escortId" : 1,
+      "registeredPilotIds" : [2,1],
+      "registeredEscortIds" : [2,1],
       "eventType" : 1,
       "meetDate": "2020-10-28 10:03",
       "startDate": "2020-10-28 13:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero"
+      "description" : "pan ma maly pero",
+      "customerCount" : 3
     },
     {
       "id":2,
@@ -79,11 +82,14 @@
       "startPoint" : "na Ram ranči",
       "pilotId" : 2,
       "escortId" : 1,
+      "registeredPilotIds" : [2,1],
+      "registeredEscortIds" : [2,1],
       "eventType" : 3,
       "meetDate": "2020-10-28 10:03",
       "startDate": "2020-10-28 13:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero"
+      "description" : "pan ma maly pero",
+      "customerCount" : 4
     }
   ]
 }
