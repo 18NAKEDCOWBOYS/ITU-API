@@ -14,7 +14,50 @@
       "type": 2,
       "phone": "846846",
       "email": "horak@18NAKEDCOWBOYS.org"
-    }
+    },
+    {
+      "id": 3,
+      "name": "Bourák Vlasák",
+      "type": 2,
+      "phone": "846846",
+      "email": "borec@18NAKEDCOWBOYS.org"
+    },
+    {
+      "id": 4,
+      "name": "Frajer Vlasák",
+      "type": 2,
+      "phone": "846846",
+      "email": "borec@18NAKEDCOWBOYS.org"
+    },
+    {
+      "id": 5,
+      "name": "Kotoun Tupoun Pepoun",
+      "type": 2,
+      "phone": "846846",
+      "email": "borec@18NAKEDCOWBOYS.org"
+    },
+    {
+      "id": 6,
+      "name": "Rychlík Mccrubík",
+      "type": 2,
+      "phone": "846846",
+      "email": "borec@18NAKEDCOWBOYS.org"
+    },
+    {
+      "id": 7,
+      "name": "Nicolas Gers",
+      "type": 1,
+      "phone": "846846",
+      "email": "borec@18NAKEDCOWBOYS.org"
+    },
+    {
+      "id": 8,
+      "name": "Joe Ligma",
+      "type": 1,
+      "phone": "846846",
+      "email": "borec@18NAKEDCOWBOYS.org"
+    },
+  
   ],
   "event-types" : [
     {
@@ -90,6 +133,66 @@
       "customerPhone" : "94894948",
       "description" : "pan ma maly pero",
       "customerCount" : 4
+    },
+    {
+      "id":3,
+      "meetPoint" :"na zámku",
+      "startPoint" : "na Ram ranči",
+      "pilotId" : 3,
+      "escortId" : 4,
+      "registeredPilotIds" : [2,1,3,4],
+      "registeredEscortIds" : [2,1,4,5,6],
+      "eventType" : 1,
+      "meetDate": "2020-12-28 10:03",
+      "startDate": "2020-12-28 13:03",
+      "customerPhone" : "94894948",
+      "description" : "pan ma maly pero",
+      "customerCount" : 2
+    },
+    {
+      "id":4,
+      "meetPoint" :"na zámku",
+      "startPoint" : "na Ram ranči",
+      "pilotId" : 5,
+      "escortId" : 6,
+      "registeredPilotIds" : [2,1,3,4,5,6],
+      "registeredEscortIds" : [2,1,4,5,6],
+      "eventType" : 2,
+      "meetDate": "2020-12-27 10:03",
+      "startDate": "2020-12-27 13:03",
+      "customerPhone" : "94894948",
+      "description" : "pan ma maly pero",
+      "customerCount" : 2
+    },
+    {
+      "id":5,
+      "meetPoint" :"na zámku",
+      "startPoint" : "na Ram ranči",
+      "pilotId" : 5,
+      "escortId" : 6,
+      "registeredPilotIds" : [2,1,3,4,5,6],
+      "registeredEscortIds" : [2,1,4,5,6],
+      "eventType" : 4,
+      "meetDate": "2020-12-26 10:03",
+      "startDate": "2020-12-26 13:03",
+      "customerPhone" : "94894948",
+      "description" : "pan ma maly pero",
+      "customerCount" : 2
+    },
+    {
+      "id":6,
+      "meetPoint" :"na zámku",
+      "startPoint" : "na Ram ranči",
+      "pilotId" : 3,
+      "escortId" : 6,
+      "registeredPilotIds" : [2,1,3,4,5,6],
+      "registeredEscortIds" : [2,1,4,5,6],
+      "eventType" : 4,
+      "meetDate": "2020-12-25 10:03",
+      "startDate": "2020-12-25 13:03",
+      "customerPhone" : "94894948",
+      "description" : "pan ma maly pero",
+      "customerCount" : 2
     }
   ]
 }
