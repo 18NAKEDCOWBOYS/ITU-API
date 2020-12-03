@@ -208,6 +208,21 @@
       "customerPhone" : "94894948",
       "description" : "pan ma maly pero",
       "customerCount" : 2
+    },
+     {
+      "id":8,
+      "meetPoint" :"Na hradu",
+      "startPoint" : "Na louce u zámku",
+      "pilotId" : 2,
+      "escortId" : 1,
+      "registeredPilotIds" : [1, 6],
+      "registeredEscortIds" : [],
+      "eventType" : 2,
+      "meetDate": "2020-12-03 15:03",
+      "startDate": "2020-12-03 16:03",
+      "customerPhone" : "94894948",
+      "description" : "pan ma maly pero",
+      "customerCount" : 1
     }
   ]
 }
