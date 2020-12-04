@@ -198,7 +198,7 @@
       "id":7,
       "meetPoint" :"na zámku",
       "startPoint" : "na Ram ranči",
-      "pilotId" : 4,
+      "pilotId" : null,
       "escortId" : 3,
       "registeredPilotIds" : [2],
       "registeredEscortIds" : [4],
