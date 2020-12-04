@@ -185,7 +185,7 @@
       "startPoint" : "na Ram ranči",
       "pilotId" : 3,
       "escortId" : 6,
-      "registeredPilotIds" : [2,1,3,4],
+      "registeredPilotIds" : [2,3,4],
       "registeredEscortIds" : [],
       "eventType" : 4,
       "meetDate": "2020-12-25 10:03",
