@@ -116,7 +116,7 @@
       "meetDate": "2020-10-28 10:03",
       "startDate": "2020-10-28 13:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero",
+      "description" : "",
       "customerCount" : 3
     },
     {
@@ -131,7 +131,7 @@
       "meetDate": "2020-10-28 10:03",
       "startDate": "2020-10-28 13:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero",
+      "description" : "Použít velký balón",
       "customerCount" : 4
     },
     {
@@ -146,7 +146,7 @@
       "meetDate": "2020-12-28 10:03",
       "startDate": "2020-12-28 13:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero",
+      "description" : "",
       "customerCount" : 2
     },
     {
@@ -161,7 +161,7 @@
       "meetDate": "2020-12-27 10:03",
       "startDate": "2020-12-27 13:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero",
+      "description" : "",
       "customerCount" : 2
     },
     {
@@ -176,7 +176,7 @@
       "meetDate": "2020-12-26 10:03",
       "startDate": "2020-12-26 13:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero",
+      "description" : "Pán by chtěl romantiku",
       "customerCount" : 2
     },
     {
@@ -191,7 +191,7 @@
       "meetDate": "2020-12-25 10:03",
       "startDate": "2020-12-25 13:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero",
+      "description" : "",
       "customerCount" : 2
     },
     {
@@ -206,7 +206,7 @@
       "meetDate": "2020-12-03 10:03",
       "startDate": "2020-12-03 13:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero",
+      "description" : "",
       "customerCount" : 2
     },
      {
@@ -221,7 +221,7 @@
       "meetDate": "2020-12-03 15:03",
       "startDate": "2020-12-03 16:03",
       "customerPhone" : "94894948",
-      "description" : "pan ma maly pero",
+      "description" : "",
       "customerCount" : 1
     }
   ]
